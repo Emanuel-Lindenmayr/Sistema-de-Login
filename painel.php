@@ -1,8 +1,5 @@
 <?php
-
-include('protect.php');
-
-
+    session_start();
 ?>
 
 <!DOCTYPE html>
